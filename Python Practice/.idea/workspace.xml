@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8df2b29-1bdc-47c9-8bdd-41b53e0727a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VbU5SMkRWesNwkohPeev12AHnd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Python Practice" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Rock Paper Scissors">
+    <configuration name="Basic functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Listone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Listone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Rock Paper Scissors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python Practice/Rock Paper Scissors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="if문과_반복문" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Applications/Python 3.7/IDLE.app/Contents/MacOS/Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if문과_반복문.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="student A and B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/student A and B.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Python Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Python Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Python Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.if문과_반복문" />
+      <item itemvalue="Python.student A and B" />
+      <item itemvalue="Python.Listone" />
+      <item itemvalue="Python.Functions" />
+      <item itemvalue="Python.Basic functions" />
+      <item itemvalue="Python.Rock Paper Scissors" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Rock Paper Scissors" />
+        <item itemvalue="Python.Basic functions" />
+        <item itemvalue="Python.Functions" />
+        <item itemvalue="Python.Listone" />
+        <item itemvalue="Python.student A and B" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8df2b29-1bdc-47c9-8bdd-41b53e0727a0" name="Default Changelist" comment="" />
+      <created>1577521104727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577521104727</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="186" y="83" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578192355787">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="186" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1578192355787" />
+    <state x="186" y="99" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1577521269819" />
+    <state width="1419" height="246" key="GridCell.Tab.0.bottom" timestamp="1579003827752">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="246" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579003827752" />
+    <state width="1416" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1577526724479" />
+    <state width="1416" height="212" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1577523595674" />
+    <state width="1419" height="246" key="GridCell.Tab.0.center" timestamp="1579003827749">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="246" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579003827749" />
+    <state width="1416" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1577526724478" />
+    <state width="1416" height="212" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1577523595673" />
+    <state width="1419" height="246" key="GridCell.Tab.0.left" timestamp="1579003827749">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="246" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579003827749" />
+    <state width="1416" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1577526724477" />
+    <state width="1416" height="212" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1577523595673" />
+    <state width="1419" height="246" key="GridCell.Tab.0.right" timestamp="1579003827750">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="246" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579003827750" />
+    <state width="1416" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1577526724478" />
+    <state width="1416" height="212" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1577523595674" />
+    <state width="1416" height="264" key="GridCell.Tab.1.bottom" timestamp="1579003827504">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1416" height="264" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579003827504" />
+    <state width="1416" height="264" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1577521273336" />
+    <state width="1416" height="264" key="GridCell.Tab.1.center" timestamp="1579003827489">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1416" height="264" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1579003827489" />
+    <state width="1416" height="264" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1577521273335" />
+    <state width="1416" height="264" key="GridCell.Tab.1.left" timestamp="1579003827488">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1416" height="264" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1579003827488" />
+    <state width="1416" height="264" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1577521273334" />
+    <state width="1416" height="264" key="GridCell.Tab.1.right" timestamp="1579003827502">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1416" height="264" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1579003827502" />
+    <state width="1416" height="264" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1577521273335" />
+    <state x="300" y="159" width="837" height="550" key="find.popup" timestamp="1577521398288">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="300" y="159" width="837" height="550" key="find.popup/0.23.1440.826@0.23.1440.826" timestamp="1577521398288" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1577939084800">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1577939084800" />
+  </component>
+</project>
