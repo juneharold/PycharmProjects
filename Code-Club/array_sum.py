@@ -1,7 +1,12 @@
 n = int(input(""))
 array = list(map(int, input().rstrip().split()))
 
-print(sum(array))
+
+def sumarr(arr):
+    print(sum(arr))
+
+
+sumarr(array)
 
 
 
