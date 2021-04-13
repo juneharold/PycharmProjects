@@ -3,23 +3,14 @@ array = list(map(int, input().rstrip().split()))
 
 
 def sumarr(arr):
-    print(sum(arr))
+    return sum(arr)
 
 
-sumarr(array)
-
-
-
+print(sumarr(array))
 
 
 
-
-
-
-
-
-
-
+var = input()
 
 
 
